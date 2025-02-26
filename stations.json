@@ -1,0 +1,10 @@
+{
+  "tgrt-fm": {
+    "title": "TGRT FM Canlı Yayın",
+    "url": "https://tgrt-fm.com.tr",
+    "image": "https://tgrtfm.com.tr/wp-content/uploads/2021/08/tgrt-fm-logo-dark.png",
+    "streams": {
+      "main": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm"
+    }
+  }
+}
